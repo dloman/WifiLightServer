@@ -1,0 +1,8 @@
+.cproject
+.project
+.settings/*
+Makefile
+Makefile-user.mk
+out/*
+src/WifiNetworkData.h
+
